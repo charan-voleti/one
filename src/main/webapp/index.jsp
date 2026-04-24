@@ -529,7 +529,7 @@
                     </li>
                     <li><a href="#"><em class="fas fa-fire"></em> Trending</a></li>
                     <li><a href="#deals"><em class="fas fa-tag"></em> Deals</a></li>
-                    <li><a href="#about"><em class="fas fa-info-circle"></em> About</a></li>
+                    <li><a href="#about"><em class="fas fa-info-circle"></em> INFO</a></li>
                 </ul>
             </nav>
 
